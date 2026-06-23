@@ -23,7 +23,7 @@ A desktop YouTube subscriber counter built with:
 
 ![Front](./images/subcounter_1.jpg)
 
-![Interface](./images/subcounter_4.jpg)
+![Back](./images/subcounter_4.jpg)
 
 ## 3D Printed Enclosure
 
