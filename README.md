@@ -1,2 +1,2 @@
 # Subscriber-counter-CYD
-This is a fun little project to make your own subscriber counter with a CYD
+ESP32 YouTube Subscriber Counter with ST7789 display
