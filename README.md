@@ -23,8 +23,6 @@ A desktop YouTube subscriber counter built with:
 
 ![Front](./images/subcounter_1.jpg)
 
-![Back](./images/subcounter_4.jpg)
-
 ## 3D Printed Enclosure
 
 STL files are available in the 3d-files folder.
